@@ -1,0 +1,5 @@
+numpy==1.26.4
+scipy==1.13.1
+ripser==0.6.8
+giotto-tda==0.6.2
+ripserplusplus==1.1.2
