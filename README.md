@@ -9,6 +9,7 @@ In the folder "TDA_featurization" you find the python code used to extract TDA f
 - The file `stat_sum.py` contains the function for creating the statistical summary of a persistence diagram.
 - The file `TDAexample.ipynb` contains a Jupyter notebook, computing the three types of features from the thesis, for an example audio file.
 (We will not replicate the feature selection procedure, as this would require the TIMIT corpus).
+Note that `requirements.txt` is only for teh code (not notebook) in `TDA_featurization`.
 
 
 
